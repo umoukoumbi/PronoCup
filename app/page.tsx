@@ -68,7 +68,7 @@ export default function LobbyPage() {
             {user ? (
               <>
                 {/* Nouveau Bouton Classement */}
-                <Link href="/leaderboard" className="p-2 text-slate-400 hover:text-emerald-500 transition-colors" title="Classement Général">
+                <Link href="/ranking" className="p-2 text-slate-400 hover:text-emerald-500 transition-colors" title="Classement Général">
                   <LayoutDashboard size={20} />
                 </Link>
 
