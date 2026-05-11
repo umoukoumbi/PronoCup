@@ -17,7 +17,7 @@ export default function LobbyPage() {
   const router = useRouter();
 
   // --- IMPORTANT : METS TON EMAIL ICI POUR VOIR LE BOUTON ADMIN ---
-  const ADMIN_EMAIL = "ton-email@exemple.com"; 
+  const ADMIN_EMAIL = "umoukoumbi@yahoo.fr"; 
 
   useEffect(() => {
     checkUser();
